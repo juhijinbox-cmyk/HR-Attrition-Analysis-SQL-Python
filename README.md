@@ -27,4 +27,4 @@ This project analyzes employee attrition using SQL and Python to identify the ke
 - Employees living farther from the office show higher attrition.
 
 ## Project Files
-- HR Attrition Analysis-SQL
+- HR Attrition Analysis-SQL & Python
